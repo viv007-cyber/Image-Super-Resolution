@@ -31,7 +31,7 @@ Training through MSE optimization
 
 Training through Perceptual loss optimization
 
-<img width="563" alt="perceptual" src="https://github.com/user-attachments/assets/f1085e13-8210-4274-aace-c3b10a00ed3d" />
+<img width="700" alt="perceptual" src="https://github.com/user-attachments/assets/f1085e13-8210-4274-aace-c3b10a00ed3d" />
 
 
 # Results when optimzing mse loss
