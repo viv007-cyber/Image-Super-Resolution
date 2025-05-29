@@ -18,7 +18,7 @@ Training through Perceptual loss optimization
 <img width="700" alt="perceptual" src="https://github.com/user-attachments/assets/f1085e13-8210-4274-aace-c3b10a00ed3d" />
 
 
-# Results when optimzing mse loss
+### Results when optimzing mse loss
 Test PSNR: 28.2055
 Test SSIM: 0.7394
 Test LPIPS:0.2205
@@ -33,7 +33,7 @@ Test LPIPS:0.2205
 
 
 
-# Results when optimizing perceptual loss
+### Results when optimizing perceptual loss
 Test PSNR: 27.3911
 Test SSIM: 0.7073
 Test LPIPS: 0.1257
@@ -44,23 +44,23 @@ Test LPIPS: 0.1257
 
 
 
-# Evaluation through other models
+## Evaluation through other models
 Our model has performed very well as compared to the standard models used in this field and can produce even better results.
 
 
-OriginalESRGAN:
+### OriginalESRGAN:
 Test PSNR: 27.3863
 Test SSIM: 0.7033
 Test LPIPS: 0.1972
 
 
-SRCNN
+### SRCNN
 TestPSNR: 27.5452
 Test SSIM: 0.7262
 
 
 
- Bicubic:
+### Bicubic:
 TestPSNR : 25.7640
 Test SSIM : 0.6608
 
