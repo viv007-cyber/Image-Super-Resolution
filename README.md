@@ -23,8 +23,16 @@ single image super-resolution.
 
 
 I propose 2 results one with high perceptual quality but low PSNR and SSIM value and one with high pixel accuracy and low perceptual quality
-Training 
+
+
+Training through MSE optimization
+
 ![image](https://github.com/user-attachments/assets/3b44f276-fb42-4a4e-a92d-5a4a0600d75a)
+
+Training through Perceptual loss optimization
+
+<img width="563" alt="perceptual" src="https://github.com/user-attachments/assets/f1085e13-8210-4274-aace-c3b10a00ed3d" />
+
 
 # Results when optimzing mse loss
 Test PSNR: 28.2055
@@ -42,9 +50,9 @@ Test LPIPS:0.2205
 
 
 # Results when optimizing perceptual loss
-Test PSNR: 27.3142
-Test SSIM: 0.7045
-Test LPIPS: 0.1225
+Test PSNR: 27.3911
+Test SSIM: 0.7073
+Test LPIPS: 0.1257
 
 
 <img width="468" alt="Capture2" src="https://github.com/user-attachments/assets/5f475a68-0747-403e-afa8-3d52b00c566e" />
