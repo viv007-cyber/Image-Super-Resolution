@@ -58,7 +58,9 @@ Test LPIPS: 0.1257
 <img width="468" alt="Capture2" src="https://github.com/user-attachments/assets/5f475a68-0747-403e-afa8-3d52b00c566e" />
 
 
-Evaluation through other models
+
+
+#Evaluation through other models
 Our model has performed very well as compared to the standard models used in this field and can produce even better results.
 
 
@@ -67,10 +69,12 @@ Test PSNR: 27.3863
 Test SSIM: 0.7033
 Test LPIPS: 0.1972
 
+
 SRCNN
 TestPSNR: 27.5452
-
 Test SSIM: 0.7262
+
+
 
  Bicubic:
 TestPSNR : 25.7640
