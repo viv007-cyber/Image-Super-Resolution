@@ -37,7 +37,11 @@ Test LPIPS:0.2205
 
 
 
-Results when optimizing perceptual loss
+
+
+
+
+# Results when optimizing perceptual loss
 Test PSNR: 27.3142
 Test SSIM: 0.7045
 Test LPIPS: 0.1225
