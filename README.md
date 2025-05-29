@@ -26,7 +26,7 @@ I propose 2 results one with high perceptual quality but low PSNR and SSIM value
 Training 
 ![image](https://github.com/user-attachments/assets/3b44f276-fb42-4a4e-a92d-5a4a0600d75a)
 
-Results when optimzing mse loss
+# Results when optimzing mse loss
 Test PSNR: 28.2055
 Test SSIM: 0.7394
 Test LPIPS:0.2205
