@@ -60,7 +60,7 @@ Test LPIPS: 0.1257
 
 
 
-#Evaluation through other models
+# Evaluation through other models
 Our model has performed very well as compared to the standard models used in this field and can produce even better results.
 
 
