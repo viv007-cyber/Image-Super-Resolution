@@ -20,4 +20,15 @@ The main issue that plagued this task was the size of the training dataset but, 
 the use of effective fine tuning the model was able to produce results that bettered the
 results produced by the benchmark models, thereby generating realistic textures during
 single image super-resolution.
+
+Training 
 ![image](https://github.com/user-attachments/assets/3b44f276-fb42-4a4e-a92d-5a4a0600d75a)
+
+Results when optimzing mse loss
+Test PSNR: 28.2055
+Test SSIM: 0.7394
+Test LPIPS:0.2205
+
+
+<img width="451" alt="Capture" src="https://github.com/user-attachments/assets/4f7fc105-9fa1-4c3b-8616-6fed51b5c517" />
+
