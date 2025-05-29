@@ -21,6 +21,8 @@ the use of effective fine tuning the model was able to produce results that bett
 results produced by the benchmark models, thereby generating realistic textures during
 single image super-resolution.
 
+
+I propose 2 results one with high perceptual quality but low PSNR and SSIM value and one with high pixel accuracy and low perceptual quality
 Training 
 ![image](https://github.com/user-attachments/assets/3b44f276-fb42-4a4e-a92d-5a4a0600d75a)
 
@@ -30,5 +32,17 @@ Test SSIM: 0.7394
 Test LPIPS:0.2205
 
 
+
 <img width="451" alt="Capture" src="https://github.com/user-attachments/assets/4f7fc105-9fa1-4c3b-8616-6fed51b5c517" />
+
+
+
+Results when optimizing perceptual loss
+Test PSNR: 27.3142
+Test SSIM: 0.7045
+Test LPIPS: 0.1225
+
+
+<img width="468" alt="Capture2" src="https://github.com/user-attachments/assets/5f475a68-0747-403e-afa8-3d52b00c566e" />
+
 
