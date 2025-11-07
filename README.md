@@ -65,7 +65,6 @@ TestPSNR : 25.7640
 Test SSIM : 0.6608
 
 
-Hello!
 
 
 
